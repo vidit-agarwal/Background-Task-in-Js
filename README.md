@@ -26,7 +26,7 @@ finally, the drawing process will change the background color of the 'Hello Web 
 
 ### B) Source Code
 Anim.js <br>
-- This JavaScript file contains the code of the Web Worker.
+- This JavaScript file contains the code of the Web Worker.<br>
 
 Index.html <br>
-- This HTML file contains the JavaScript code that generates the worker in isolated thread and sends to it instructions to start or stop the animation.
+- This HTML file contains the JavaScript code that generates the worker in isolated thread and sends to it instructions to start or stop the animation.<br>

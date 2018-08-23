@@ -1,7 +1,13 @@
 # Background-Task-in-Js
 
 ## Introduction
+<<<<<<< HEAD
 The utility of using a background task is: <br>
+=======
+The utility of using a background task is:<br>
+- Preventing the UI from freezing because of running intensive tasks. <br>
+- Improving the performance of your JavaScript application. <br>
+>>>>>>> e1006092aac9edacd8db58985e32b2f72f6d7393
 
 - preventing the UI from freezing because of running intensive tasks. <br>
 - improving the performance of your JavaScript application. <br>

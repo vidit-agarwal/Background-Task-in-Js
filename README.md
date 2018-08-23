@@ -25,8 +25,8 @@ finally, the drawing process will change the background color of the 'Hello Web 
 - Stop animation: This action ends the worker, and stops animation.
 
 ### B) Source Code
-* Anim.js <br>
+Anim.js <br>
 - This JavaScript file contains the code of the Web Worker.
 
-* Index.html <br>
+Index.html <br>
 - This HTML file contains the JavaScript code that generates the worker in isolated thread and sends to it instructions to start or stop the animation.
